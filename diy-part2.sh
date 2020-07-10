@@ -37,7 +37,6 @@ git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luc
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
 git clone https://github.com/siropboy/luci-theme-btmod.git package/luci-theme-btmod
-git clone -b dependabot/npm_and_yarn/lodash-4.17.15 https://github.com/tano-systems/luci-theme-tano.git package/luci-theme-tano
 git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato2
 git clone https://github.com/kenzok8/luci-theme-ifit.git package/luci-theme-ifit
 git clone https://github.com/Aslin-Ameng/luci-theme-Night.git package/luci-theme-Night
